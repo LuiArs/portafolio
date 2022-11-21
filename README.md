@@ -7,7 +7,7 @@ _pagina web personal donde hablo de mi y muestro algunos proyectos que se encuen
 ## construido con :arrow_heading_down:
 * **HTML**
 * **CSS**
-* **boostrap**
+* **bootstrap**
 
 ## creado por  :arrow_heading_down:
 * **Luis Romero**
