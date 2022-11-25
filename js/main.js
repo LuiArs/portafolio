@@ -85,7 +85,7 @@ botonColor.addEventListener('click', () => {
             break;
     }
 });
-/* year*/
+// year
 
 const fecha = Date.now()
 const hoy = new Date(fecha)
