@@ -354,23 +354,23 @@ h2{
 /* modo claro /oscuro */
 
 .ligth {
-  background-color: var(--blanco);
+  background-color: #fff;
 }
 
 .ligth h1 {
-  color: var(--secondary);
+  color: #00051de8;
 }
 
 .ligth h3 {
-  color: var(--secondary);
+  color: #00051de8;
 }
 
 .ligth p {
-  color: var(--secondary) ;
+  color: #00051de8 ;
 }
 
 .ligth a {
-  color: var(--secondary);
+  color: #00051de8;
 }
 
 
@@ -392,10 +392,14 @@ h2{
 .dark h3,
 .dark p,
 .dark a {
-  color: var(--blanco);
+  color: white;
   transition: all .4s;
 }
 
+.dark .seccionSk .color {
+  transition: all .4s;
+  background-color: rgba(0, 0, 0, 0.808);
+}
 
 .dark .icoMenu ion-icon {
   color: var(--blanco) !important;
